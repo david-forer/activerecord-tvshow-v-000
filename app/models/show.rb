@@ -1,4 +1,4 @@
-class Show < ActiveRecord::RUBY_RELEASE_DATE
+class Show < ActiveRecord::Base 
   
   
   
